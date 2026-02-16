@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Alok Kumar Page</title>
+</head>
+<body>
+
+    <h1>Welcome to My Page</h1>
+    <h2>Alok Kumar</h2>
+    <p>Hello! My name is Alok Kumar.</p>
+    <p>This is my simple HTML webpage.</p>
+
+</body>
+</html>
